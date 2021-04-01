@@ -1,0 +1,14 @@
+Links 
+https://www.kaggle.com/ttahara/bms-mt-chemical-formula-regression-training
+https://www.kaggle.com/wantsu/molecular-translation-ocsr-training
+https://www.kaggle.com/mnavaidd/molecular-translation-tensorflow
+https://www.kaggle.com/dschettler8845/molecular-translation-eda-smart-baseline
+https://www.kaggle.com/sanjitschouhan/molecular-transalation
+
+# links for github
+https://github.com/gmarshall33/Optical-Chemical-Structure-Recognition
+https://github.com/ctrltz/ocsr-project
+
+
+#well explained 
+https://www.kaggle.com/dschettler8845/bms-image-captioning-w-attention-train#background_information
